@@ -1,3 +1,4 @@
  1.  file_3, original line 1
  2.  file_3, original line 2
  3.  file_3, original line 3
+ (n+1).  file_n, original line (n+1)
